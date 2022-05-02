@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Cassiano de Moura 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/cassiano-de-moura-58a66058)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiano-de-moura-58a66058)
 
 ![Cassiano GitHub stats](https://github-readme-stats.vercel.app/api?username=caslack&show_icons=true&theme=dark)
 
